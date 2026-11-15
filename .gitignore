@@ -231,3 +231,4 @@ temp/
 
 #Ignore project files
 goodreads_interactions_children.json.gz
+mushroom_data/*
