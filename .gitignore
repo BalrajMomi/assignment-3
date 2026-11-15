@@ -159,6 +159,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Conda environments
+conda-meta/
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -218,3 +221,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#Mac store file
+.DS_Store
+
+#Ignore IntelliJ files
+.idea/
+temp/
+
+#Ignore project files
+goodreads_interactions_children.json.gz
+mushroom_data/*
